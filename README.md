@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".github/assets/ente-rocketship.png" width="400"/>
+<img src=".github/assets/ente-rocketship.png" width="4>
 
 Fully open source end-to-end encrypted photos, authenticators and more.
 
@@ -8,7 +8,7 @@ Fully open source end-to-end encrypted photos, authenticators and more.
 
 # Ente
 
-Ente is a service that provides a fully open source, end-to-end encrypted platform for you to store your data in the cloud without needing to trust the service provider. On top of this platform, we have built three apps so far: Ente Photos (an alternative to Apple and Google Photos), Ente Locker (a safe space for your most important documents and credentials), and Ente Auth (a 2FA alternative to the deprecated Authy).
+Ente is a service that provides a fully open source, end-to-end encrypted platform for you to store your data in the cloud without needingOn top of this platform, we have built three apps so far: Ente Photos (an alternative to Apple and Google Photos), Ente Locker (a safe space for your most important documents and credentials), and Ente Auth (a 2FA alternative to the deprecated Authy).
 
 This monorepo contains all our source code - the client apps (iOS / Android / F-Droid / Web / Linux / macOS / Windows) for both the products (and more planned future ones!), and the server that powers them.
 
